@@ -1,0 +1,83 @@
+body{background-color:white;}
+h1{color:orchid; background-color:rebeccapurple;}
+h3{color:rosybrown}
+.header{display: flex;
+justify-content: space-between;
+}
+.menu{
+    display:flex;
+    justify-content:space-evenly;
+    background: color #ffc0cb;;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color:#000000;
+}
+body{
+    background-color:#ffffff;
+    margin:0px;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+.grid img{
+    display:flex;
+    flex-wrap:wrap;
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.camel{
+    border: 2px solid #ffc0ff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 500px;
+padding: 50px;
+background-color:#ffffff;
+}
+.chameleon{
+    border: 2px solid #ffc0ff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:#ffffff;
+}
+.pigeon{
+    border: 2px solid #ffffff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:#ffffff;
+}
+.bear{
+    border: 2px solid #ffc0ff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:#ffffff;
+}
+.cicada{
+    border: 2px solid #ffc0ff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:#ffffff;
+}
+.panda{
+    border: 2px solid #ffc0ff;
+margin-top: 12px;
+margin-bottom: 12px;
+width: 300px;
+height: 600px;
+padding: 50px;
+background-color:#ffffff;
+}
